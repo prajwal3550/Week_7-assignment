@@ -1,1 +1,1 @@
-This project is a simple website that shows the shortest travel routes in Nepal.
+This project is a simple code that shows the simple code with python to print hello world.
