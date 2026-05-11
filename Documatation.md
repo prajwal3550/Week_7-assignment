@@ -55,4 +55,4 @@ License
 This project is for educational purposes.
 
 Author
-GitHub: prajwal3550
+GitHub: prajwal3550x
