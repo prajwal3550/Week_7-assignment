@@ -54,5 +54,5 @@ Open a Pull Request
 License
 This project is for educational purposes.
 
-Author
+Author:
 GitHub: prajwal3550x
